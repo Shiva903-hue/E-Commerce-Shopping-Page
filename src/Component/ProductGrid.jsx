@@ -3,6 +3,7 @@ import React from 'react';
 import ProductCard from './ProductCard';
 
 const ProductGrid = ({ products, totalProducts, currentPage, totalPages, onPageChange }) => {
+
   const handlePreviousPage = () => {
     if (currentPage > 1) {
       onPageChange(currentPage - 1);
@@ -25,7 +26,6 @@ const ProductGrid = ({ products, totalProducts, currentPage, totalPages, onPageC
           </svg>
         </div>
         <h3 className="text-lg font-medium text-gray-900 mb-2">No products found</h3>
-        <p className="text-gray-600">Try adjusting your filters to see more results.</p>
       </div>
     );
   }
@@ -67,12 +67,13 @@ const ProductGrid = ({ products, totalProducts, currentPage, totalPages, onPageC
           {/* Page Numbers */}
           <div className="flex items-center space-x-2">
             {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+              
               let pageNum;
-              if (totalPages <= 5) {
+              if (totalPages <= 5) { 
                 pageNum = i + 1;
-              } else if (currentPage <= 3) {
+              } else if (currentPage <= 3) { // starting pages
                 pageNum = i + 1;
-              } else if (currentPage >= totalPages - 2) {
+              } else if (currentPage >= totalPages - 2) { // ending pages
                 pageNum = totalPages - 4 + i;
               } else {
                 pageNum = currentPage - 2 + i;

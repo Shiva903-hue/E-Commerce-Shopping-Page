@@ -77,6 +77,7 @@ const ProductCard = ({ product }) => {
             isHovering 
               ? {
                   transformOrigin: `${zoomPosition.x}% ${zoomPosition.y}%`
+                  // transformOrigin:  "100% 100% 50px"
                 }
               : {}
           }

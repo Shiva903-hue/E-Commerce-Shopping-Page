@@ -1,4 +1,3 @@
-// src/components/FilterSection.jsx
 import React from 'react';
 
 const FilterSection = ({ filters, onFilterChange }) => {
