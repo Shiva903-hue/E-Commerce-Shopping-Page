@@ -1,5 +1,4 @@
 [
-   
     {
         "id": 2,
         "category": "Mens Clothing",
@@ -8,8 +7,10 @@
         "model": "Model-4748",
         "price": 1225.22,
         "rating": 1.4,
-        "details": "This is a premium sweatshirt from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1533674689011-7d9e6f1f7c44"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 101693.26,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 3,
@@ -19,8 +20,10 @@
         "model": "Model-5353",
         "price": 1038.78,
         "rating": 4.2,
-        "details": "This is a premium jeans from Zara with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361479-0h1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 86218.74,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 4,
@@ -30,8 +33,10 @@
         "model": "Model-9145",
         "price": 1117.33,
         "rating": 4.7,
-        "details": "This is a premium jeans from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361478-9g1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 92738.39,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 5,
@@ -41,8 +46,10 @@
         "model": "Model-5289",
         "price": 580.84,
         "rating": 1.8,
-        "details": "This is a premium jacket from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975237740-9cc02c4b74e8"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 48209.72,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 6,
@@ -52,8 +59,10 @@
         "model": "Model-9949",
         "price": 1464.58,
         "rating": 2.4,
-        "details": "This is a premium blazer from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 121560.14,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 7,
@@ -63,8 +72,10 @@
         "model": "Model-3383",
         "price": 1137.58,
         "rating": 2.3,
-        "details": "This is a premium jacket from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361475-5d1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 94419.14,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 8,
@@ -74,8 +85,10 @@
         "model": "Model-8119",
         "price": 70.6,
         "rating": 1.3,
-        "details": "This is a premium t-shirt from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975187148-4d9d3f0d81d1"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 5859.8,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 9,
@@ -85,8 +98,10 @@
         "model": "Model-5344",
         "price": 1321.21,
         "rating": 2.9,
-        "details": "This is a premium jeans from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975922071-a74a5e48167d"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 109660.43,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 10,
@@ -96,8 +111,10 @@
         "model": "Model-2420",
         "price": 245.42,
         "rating": 1.3,
-        "details": "This is a premium hoodie from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975922071-a74a5e48167d"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 20369.86,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 11,
@@ -107,8 +124,10 @@
         "model": "Model-3111",
         "price": 848.93,
         "rating": 1.3,
-        "details": "This is a premium hoodie from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1602810318383-e7d07b291f5f"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 70461.19,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 12,
@@ -118,8 +137,10 @@
         "model": "Model-3544",
         "price": 1848.3,
         "rating": 4.7,
-        "details": "This is a premium jeans from Tommy Hilfiger with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975232580-5b1ee1bc74e0"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 153408.9,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 13,
@@ -129,8 +150,10 @@
         "model": "Model-4218",
         "price": 929.83,
         "rating": 4.7,
-        "details": "This is a premium shirt from Levi's with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975237740-9cc02c4b74e8"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 77175.89,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 14,
@@ -140,8 +163,10 @@
         "model": "Model-8707",
         "price": 1925.09,
         "rating": 3.3,
-        "details": "This is a premium blazer from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361479-0h1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 159782.47,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 15,
@@ -151,8 +176,10 @@
         "model": "Model-6401",
         "price": 1745.04,
         "rating": 2.5,
-        "details": "This is a premium blazer from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361477-8f1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 144838.32,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 16,
@@ -162,8 +189,10 @@
         "model": "Model-7662",
         "price": 199.95,
         "rating": 1.4,
-        "details": "This is a premium jeans from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1602810318383-e7d07b291f5f"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 16595.85,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 17,
@@ -173,8 +202,10 @@
         "model": "Model-1004",
         "price": 451.55,
         "rating": 4.2,
-        "details": "This is a premium jacket from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975232580-5b1ee1bc74e0"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 37478.65,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 18,
@@ -184,8 +215,10 @@
         "model": "Model-3987",
         "price": 1539.64,
         "rating": 3.1,
-        "details": "This is a premium shorts from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975187148-4d9d3f0d81d1"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 127790.12,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 19,
@@ -195,8 +228,10 @@
         "model": "Model-2113",
         "price": 1113.67,
         "rating": 4.7,
-        "details": "This is a premium blazer from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361474-b34f8e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 92434.61,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 20,
@@ -206,8 +241,10 @@
         "model": "Model-6473",
         "price": 45.04,
         "rating": 3.6,
-        "details": "This is a premium sweatshirt from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975237740-9cc02c4b74e8"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 3738.32,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 21,
@@ -217,8 +254,10 @@
         "model": "Model-3640",
         "price": 712.55,
         "rating": 2.1,
-        "details": "This is a premium shorts from Levi's with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975237740-9cc02c4b74e8"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 59141.65,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 22,
@@ -228,8 +267,10 @@
         "model": "Model-7381",
         "price": 1269.14,
         "rating": 3.6,
-        "details": "This is a premium jeans from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975187148-4d9d3f0d81d1"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 105338.62,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 23,
@@ -239,8 +280,10 @@
         "model": "Model-7881",
         "price": 858.0,
         "rating": 1.2,
-        "details": "This is a premium jacket from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975187148-4d9d3f0d81d1"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 71214.0,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 24,
@@ -250,8 +293,10 @@
         "model": "Model-7005",
         "price": 1201.43,
         "rating": 3.0,
-        "details": "This is a premium shorts from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1533674689011-7d9e6f1f7c44"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 99718.69,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 25,
@@ -261,8 +306,10 @@
         "model": "Model-7241",
         "price": 1152.09,
         "rating": 1.7,
-        "details": "This is a premium shorts from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361474-b34f8e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 95623.47,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 26,
@@ -272,8 +319,10 @@
         "model": "Model-9997",
         "price": 297.52,
         "rating": 2.4,
-        "details": "This is a premium hoodie from Tommy Hilfiger with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1602810318383-e7d07b291f5f"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 24694.16,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 27,
@@ -283,8 +332,10 @@
         "model": "Model-4226",
         "price": 270.55,
         "rating": 2.5,
-        "details": "This is a premium blazer from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361473-cc1f8c3d35e6"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 22455.65,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 28,
@@ -294,8 +345,10 @@
         "model": "Model-2813",
         "price": 1122.24,
         "rating": 4.3,
-        "details": "This is a premium sweatshirt from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361473-cc1f8c3d35e6"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 93145.92,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 29,
@@ -305,8 +358,10 @@
         "model": "Model-5617",
         "price": 1023.68,
         "rating": 2.3,
-        "details": "This is a premium t-shirt from Tommy Hilfiger with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1503342394128-c104d54dba01"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 84965.44,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 30,
@@ -316,8 +371,10 @@
         "model": "Model-2372",
         "price": 1125.4,
         "rating": 3.6,
-        "details": "This is a premium hoodie from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361476-7e1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 93408.2,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 31,
@@ -327,8 +384,10 @@
         "model": "Model-4240",
         "price": 1929.91,
         "rating": 2.3,
-        "details": "This is a premium shorts from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361477-8f1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 160182.53,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 32,
@@ -338,8 +397,10 @@
         "model": "Model-4775",
         "price": 248.89,
         "rating": 1.4,
-        "details": "This is a premium t-shirt from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361475-5d1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 20657.87,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 33,
@@ -349,8 +410,10 @@
         "model": "Model-1539",
         "price": 514.89,
         "rating": 2.9,
-        "details": "This is a premium shorts from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975619844-1d2d3c72c4d0"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 42735.87,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 34,
@@ -360,8 +423,10 @@
         "model": "Model-2300",
         "price": 1974.75,
         "rating": 3.1,
-        "details": "This is a premium jeans from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361474-b34f8e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 163904.25,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 35,
@@ -371,8 +436,10 @@
         "model": "Model-2633",
         "price": 214.1,
         "rating": 3.1,
-        "details": "This is a premium sweatshirt from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 17770.3,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 36,
@@ -382,8 +449,10 @@
         "model": "Model-3509",
         "price": 1463.77,
         "rating": 1.6,
-        "details": "This is a premium jeans from Zara with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975237740-9cc02c4b74e8"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 121492.91,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 37,
@@ -393,8 +462,10 @@
         "model": "Model-6779",
         "price": 1955.4,
         "rating": 2.8,
-        "details": "This is a premium t-shirt from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361474-b34f8e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 162298.2,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 38,
@@ -404,8 +475,10 @@
         "model": "Model-6866",
         "price": 1104.95,
         "rating": 1.8,
-        "details": "This is a premium hoodie from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 91710.85,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 39,
@@ -415,8 +488,10 @@
         "model": "Model-5032",
         "price": 1419.79,
         "rating": 1.1,
-        "details": "This is a premium shirt from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361476-7e1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 117842.57,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 40,
@@ -426,8 +501,10 @@
         "model": "Model-2573",
         "price": 1480.44,
         "rating": 4.7,
-        "details": "This is a premium sweatshirt from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975481160-7f23385c81b2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 122876.52,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 41,
@@ -437,8 +514,10 @@
         "model": "Model-6882",
         "price": 1133.47,
         "rating": 1.2,
-        "details": "This is a premium blazer from Tommy Hilfiger with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361478-9g1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 94078.01,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 42,
@@ -448,8 +527,10 @@
         "model": "Model-5467",
         "price": 1321.36,
         "rating": 3.7,
-        "details": "This is a premium jacket from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975619844-1d2d3c72c4d0"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 109672.88,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 43,
@@ -459,8 +540,10 @@
         "model": "Model-5682",
         "price": 1949.2,
         "rating": 3.0,
-        "details": "This is a premium jacket from Levi's with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975698519-59c3baf1e714"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 161783.6,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 44,
@@ -470,8 +553,10 @@
         "model": "Model-1852",
         "price": 1383.05,
         "rating": 4.4,
-        "details": "This is a premium shirt from H&M with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361477-8f1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 114793.15,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 45,
@@ -481,8 +566,10 @@
         "model": "Model-6798",
         "price": 1838.33,
         "rating": 4.7,
-        "details": "This is a premium t-shirt from Puma with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361474-b34f8e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 152581.39,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 46,
@@ -492,8 +579,10 @@
         "model": "Model-9222",
         "price": 923.83,
         "rating": 4.0,
-        "details": "This is a premium t-shirt from Adidas with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361476-7e1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 76677.89,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 47,
@@ -503,8 +592,10 @@
         "model": "Model-7157",
         "price": 1690.9,
         "rating": 4.2,
-        "details": "This is a premium jeans from Tommy Hilfiger with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1533674689011-7d9e6f1f7c44"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2055d9b7-9445-45aa-9afe-183ec7170b26/AS+M+NK+DF+TOUR+LTWT+HOODIE.png",
+        "price_in_inr": 140344.7,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 48,
@@ -514,8 +605,10 @@
         "model": "Model-5041",
         "price": 257.1,
         "rating": 4.0,
-        "details": "This is a premium jacket from Uniqlo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361479-0h1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f7e102d-6a6d-48b8-be23-8324e0ec32fe/M+J+BRK+SBB+OVSZ+GFX+SS+CRW.png",
+        "price_in_inr": 21339.3,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 49,
@@ -525,8 +618,10 @@
         "model": "Model-2779",
         "price": 1225.55,
         "rating": 2.4,
-        "details": "This is a premium jeans from Zara with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975922071-a74a5e48167d"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/348035f1-9650-463f-be13-d87a227fcdef/CFC+M+NK+DFADV+JSY+SS+MATCH+HM.png",
+        "price_in_inr": 101720.65,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 50,
@@ -536,8 +631,23 @@
         "model": "Model-8874",
         "price": 1389.52,
         "rating": 3.6,
-        "details": "This is a premium hoodie from Nike with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1520975361475-5d1e4e4c35e2"
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/15c39592-866b-40c8-adc3-8e850a046c0f/AS+KB+M+TCH+FLC+WR+FZ+JKT.png",
+        "price_in_inr": 115330.16,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
+    },
+    {
+        "id": 51,
+        "category": "Mens Clothing",
+        "brand": "Nike",
+        "product_name": "Nike Hoodie 304",
+        "model": "Model-8874",
+        "price": 1389.52,
+        "rating": 3.6,
+        "details": "Men's Dri-FIT Golf Hoodie",
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3a0de538-0621-481a-a6a5-4ec01f2ac286/AS+LBJ+M+NK+TEE+M90.png",
+        "price_in_inr": 115330.16,
+        "hilight": "Built for the golf course and beyond, this hoodie is made from soft and stretchy fleece so you can swing free and easy. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable."
     },
     {
         "id": 51,
@@ -548,7 +658,9 @@
         "price": 1975.2,
         "rating": 1.0,
         "details": "This is a premium anklet from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931266944-7e9b9f2d3a11"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 163941.6,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 52,
@@ -559,7 +671,9 @@
         "price": 1355.37,
         "rating": 1.4,
         "details": "This is a premium watch from Chopard with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 112495.71,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 53,
@@ -570,7 +684,9 @@
         "price": 1312.11,
         "rating": 1.2,
         "details": "This is a premium earrings from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1589739900310-d6a5b1a0b7b3"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 108905.13,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 54,
@@ -581,7 +697,9 @@
         "price": 1115.8,
         "rating": 1.4,
         "details": "This is a premium watch from Tiffany & Co. with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 92611.4,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 55,
@@ -592,7 +710,9 @@
         "price": 100.53,
         "rating": 4.3,
         "details": "This is a premium ring from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931177034-7e9b0f2d3a20"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 8343.99,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 56,
@@ -603,7 +723,9 @@
         "price": 1973.11,
         "rating": 3.4,
         "details": "This is a premium earrings from Harry Winston with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 163768.13,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 57,
@@ -614,7 +736,9 @@
         "price": 902.7,
         "rating": 1.5,
         "details": "This is a premium brooch from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 74924.1,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 58,
@@ -625,7 +749,9 @@
         "price": 1977.58,
         "rating": 2.3,
         "details": "This is a premium bracelet from Chopard with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931167044-7e9aff2d3a21"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 164139.14,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 59,
@@ -636,7 +762,9 @@
         "price": 1053.71,
         "rating": 1.1,
         "details": "This is a premium brooch from Chopard with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931256954-7e9b8f2d3a12"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 87457.93,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 60,
@@ -647,7 +775,9 @@
         "price": 1537.84,
         "rating": 2.5,
         "details": "This is a premium necklace from Harry Winston with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931246964-7e9b7f2d3a13"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 127640.72,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 61,
@@ -658,7 +788,9 @@
         "price": 1757.8,
         "rating": 1.2,
         "details": "This is a premium bracelet from Tiffany & Co. with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931167044-7e9aff2d3a21"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 145897.4,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 62,
@@ -669,7 +801,9 @@
         "price": 509.42,
         "rating": 3.8,
         "details": "This is a premium bracelet from Harry Winston with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 42281.86,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 63,
@@ -680,7 +814,9 @@
         "price": 836.77,
         "rating": 2.7,
         "details": "This is a premium ring from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931226984-7e9b5f2d3a15"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 69451.91,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 64,
@@ -691,7 +827,9 @@
         "price": 319.73,
         "rating": 2.2,
         "details": "This is a premium necklace from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931296914-7e9c2f2d3a08"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 26537.59,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 65,
@@ -702,7 +840,9 @@
         "price": 722.18,
         "rating": 2.3,
         "details": "This is a premium brooch from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931216994-7e9b4f2d3a16"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 59940.94,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 66,
@@ -713,7 +853,9 @@
         "price": 53.09,
         "rating": 2.3,
         "details": "This is a premium bracelet from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1589739900310-d6a5b1a0b7b3"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 4406.47,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 67,
@@ -724,7 +866,9 @@
         "price": 701.81,
         "rating": 1.8,
         "details": "This is a premium necklace from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 58250.23,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 68,
@@ -735,7 +879,9 @@
         "price": 171.49,
         "rating": 1.4,
         "details": "This is a premium earrings from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931226984-7e9b5f2d3a15"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 14233.67,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 69,
@@ -746,7 +892,9 @@
         "price": 646.64,
         "rating": 2.9,
         "details": "This is a premium ring from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931266944-7e9b9f2d3a11"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 53671.12,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 70,
@@ -757,7 +905,9 @@
         "price": 1216.39,
         "rating": 1.4,
         "details": "This is a premium pendant from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931266944-7e9b9f2d3a11"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 100960.37,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 71,
@@ -768,7 +918,9 @@
         "price": 1633.96,
         "rating": 1.1,
         "details": "This is a premium earrings from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931286924-7e9c1f2d3a09"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 135618.68,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 72,
@@ -779,7 +931,9 @@
         "price": 718.75,
         "rating": 2.5,
         "details": "This is a premium brooch from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 59656.25,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 73,
@@ -790,7 +944,9 @@
         "price": 411.03,
         "rating": 2.7,
         "details": "This is a premium earrings from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931147064-7e9afd2d3a23"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 34115.49,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 74,
@@ -801,7 +957,9 @@
         "price": 283.19,
         "rating": 3.5,
         "details": "This is a premium anklet from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931266944-7e9b9f2d3a11"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 23504.77,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 75,
@@ -812,7 +970,9 @@
         "price": 154.5,
         "rating": 3.2,
         "details": "This is a premium watch from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931137074-7e9afc2d3a24"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 12823.5,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 76,
@@ -823,7 +983,9 @@
         "price": 341.62,
         "rating": 1.7,
         "details": "This is a premium ring from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1600185365349-7e9c3f2d3a07"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 28354.46,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 77,
@@ -834,7 +996,9 @@
         "price": 75.51,
         "rating": 2.0,
         "details": "This is a premium ring from Harry Winston with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 6267.33,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 78,
@@ -845,7 +1009,9 @@
         "price": 840.36,
         "rating": 3.9,
         "details": "This is a premium pendant from Chopard with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931207004-7e9b3f2d3a17"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 69749.88,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 79,
@@ -856,7 +1022,9 @@
         "price": 1099.2,
         "rating": 2.1,
         "details": "This is a premium brooch from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931197014-7e9b2f2d3a18"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 91233.6,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 80,
@@ -867,7 +1035,9 @@
         "price": 1627.43,
         "rating": 1.0,
         "details": "This is a premium pendant from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931177034-7e9b0f2d3a20"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 135076.69,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 81,
@@ -878,7 +1048,9 @@
         "price": 1388.49,
         "rating": 4.6,
         "details": "This is a premium necklace from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1589739900310-d6a5b1a0b7b3"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 115244.67,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 82,
@@ -889,7 +1061,9 @@
         "price": 1500.0,
         "rating": 4.8,
         "details": "This is a premium pendant from Chopard with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931137074-7e9afc2d3a24"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 124500.0,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 83,
@@ -900,7 +1074,9 @@
         "price": 823.74,
         "rating": 2.4,
         "details": "This is a premium necklace from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931197014-7e9b2f2d3a18"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 68370.42,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 84,
@@ -911,7 +1087,9 @@
         "price": 1647.91,
         "rating": 1.5,
         "details": "This is a premium brooch from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931137074-7e9afc2d3a24"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 136776.53,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 85,
@@ -922,7 +1100,9 @@
         "price": 183.26,
         "rating": 4.3,
         "details": "This is a premium pendant from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931286924-7e9c1f2d3a09"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 15210.58,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 86,
@@ -933,7 +1113,9 @@
         "price": 1524.15,
         "rating": 3.2,
         "details": "This is a premium pendant from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 126504.45,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 87,
@@ -944,7 +1126,9 @@
         "price": 574.26,
         "rating": 4.1,
         "details": "This is a premium bracelet from Tiffany & Co. with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931256954-7e9b8f2d3a12"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 47663.58,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 88,
@@ -955,7 +1139,9 @@
         "price": 1601.64,
         "rating": 4.2,
         "details": "This is a premium pendant from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931197014-7e9b2f2d3a18"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 132936.12,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 89,
@@ -966,7 +1152,9 @@
         "price": 589.4,
         "rating": 1.8,
         "details": "This is a premium bracelet from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931187024-7e9b1f2d3a19"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 48920.2,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 90,
@@ -977,7 +1165,9 @@
         "price": 1746.96,
         "rating": 2.9,
         "details": "This is a premium pendant from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931137074-7e9afc2d3a24"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 144997.68,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 91,
@@ -988,7 +1178,9 @@
         "price": 783.67,
         "rating": 1.7,
         "details": "This is a premium anklet from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931216994-7e9b4f2d3a16"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 65044.61,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 92,
@@ -999,7 +1191,9 @@
         "price": 1911.03,
         "rating": 3.1,
         "details": "This is a premium bracelet from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931286924-7e9c1f2d3a09"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 158615.49,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 93,
@@ -1010,7 +1204,9 @@
         "price": 1943.55,
         "rating": 3.7,
         "details": "This is a premium ring from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931167044-7e9aff2d3a21"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 161314.65,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 94,
@@ -1021,7 +1217,9 @@
         "price": 827.03,
         "rating": 3.8,
         "details": "This is a premium brooch from Cartier with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 68643.49,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 95,
@@ -1032,7 +1230,9 @@
         "price": 1636.82,
         "rating": 4.0,
         "details": "This is a premium pendant from Harry Winston with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 135856.06,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 96,
@@ -1043,7 +1243,9 @@
         "price": 1680.09,
         "rating": 2.9,
         "details": "This is a premium brooch from Bvlgari with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff"
+        "image": "https://www.giva.co/cdn/shop/articles/1-min_0777615e-d8d0-48da-89b9-5053981f49af.jpg?v=1738387900",
+        "price_in_inr": 139447.47,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 97,
@@ -1054,7 +1256,9 @@
         "price": 1399.39,
         "rating": 4.4,
         "details": "This is a premium watch from Swarovski with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zdd_DALiGYfm2BNZ0_BxvctQhyUT1Ijv7g2xAqvXuKvFlwlkfghg4Zgtv7eDyCo5_6Q&usqp=CAU",
+        "price_in_inr": 116149.37,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 98,
@@ -1065,7 +1269,9 @@
         "price": 1568.64,
         "rating": 2.9,
         "details": "This is a premium ring from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931167044-7e9aff2d3a21"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ4Sqjw7wHFE9MBZXtv3fsJUH0KK9nOGEQOw&s",
+        "price_in_inr": 130197.12,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 99,
@@ -1076,7 +1282,9 @@
         "price": 886.08,
         "rating": 3.6,
         "details": "This is a premium anklet from Pandora with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1592931236974-7e9b6f2d3a14"
+        "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/10735140/2025/3/17/b46439e0-c5f6-47e9-9c2f-3636036c84ca1742200928338-Peora-Women-18K-Gold-Plated-White-American-Diamond-Bridal-Je-1.jpg",
+        "price_in_inr": 73544.64,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 100,
@@ -1087,7 +1295,9 @@
         "price": 137.27,
         "rating": 1.4,
         "details": "This is a premium pendant from Mikimoto with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1562572159-4efc207f5aff"
+        "image": "https://udaipurblog.com/wp-content/uploads/2018/12/My-Gold-Guide-600x410.jpg",
+        "price_in_inr": 11393.41,
+        "hilight": "Exquisite craftsmanship with premium materials, perfect for every occasion."
     },
     {
         "id": 101,
@@ -1097,8 +1307,10 @@
         "model": "Model-5285",
         "price": 104.82,
         "rating": 3.6,
-        "details": "This is a premium laptop from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714745-489689fd1cb6"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 8700.06,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 102,
@@ -1108,8 +1320,10 @@
         "model": "Model-1586",
         "price": 1864.85,
         "rating": 2.7,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714735-489689fd1cac"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 154782.55,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 103,
@@ -1119,8 +1333,10 @@
         "model": "Model-7399",
         "price": 675.21,
         "rating": 4.1,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 56042.43,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 104,
@@ -1130,8 +1346,10 @@
         "model": "Model-3179",
         "price": 1205.77,
         "rating": 3.8,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714750-489689fd1cbb"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 100078.91,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 105,
@@ -1141,8 +1359,10 @@
         "model": "Model-9325",
         "price": 333.73,
         "rating": 3.3,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714740-489689fd1cb1"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 27699.59,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 106,
@@ -1152,8 +1372,10 @@
         "model": "Model-9400",
         "price": 689.11,
         "rating": 1.5,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714743-489689fd1cb4"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 57196.13,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 107,
@@ -1163,8 +1385,10 @@
         "model": "Model-3184",
         "price": 1376.1,
         "rating": 2.0,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714736-489689fd1cad"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 114216.3,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 108,
@@ -1174,8 +1398,10 @@
         "model": "Model-4534",
         "price": 1193.22,
         "rating": 1.4,
-        "details": "This is a premium laptop from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714747-489689fd1cb8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 99037.26,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 109,
@@ -1185,8 +1411,10 @@
         "model": "Model-9309",
         "price": 943.12,
         "rating": 1.2,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714749-489689fd1cba"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 78278.96,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 110,
@@ -1196,8 +1424,10 @@
         "model": "Model-1509",
         "price": 387.16,
         "rating": 1.3,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714744-489689fd1cb5"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 32134.28,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 111,
@@ -1207,8 +1437,10 @@
         "model": "Model-6798",
         "price": 1977.58,
         "rating": 2.2,
-        "details": "This is a premium laptop from HP with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714736-489689fd1cad"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 164139.14,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 112,
@@ -1218,8 +1450,10 @@
         "model": "Model-3212",
         "price": 1538.51,
         "rating": 2.5,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714742-489689fd1cb3"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 127696.33,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 113,
@@ -1229,8 +1463,10 @@
         "model": "Model-6210",
         "price": 795.6,
         "rating": 1.5,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714742-489689fd1cb3"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 66034.8,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 114,
@@ -1240,8 +1476,10 @@
         "model": "Model-8051",
         "price": 1557.21,
         "rating": 2.7,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714735-489689fd1cac"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 129248.43,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 115,
@@ -1251,8 +1489,10 @@
         "model": "Model-7008",
         "price": 1266.92,
         "rating": 2.1,
-        "details": "This is a premium laptop from HP with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714740-489689fd1cb1"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 105154.36,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 116,
@@ -1262,8 +1502,10 @@
         "model": "Model-7888",
         "price": 1108.15,
         "rating": 1.9,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714733-489689fd1caa"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 91976.45,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 117,
@@ -1273,8 +1515,10 @@
         "model": "Model-9625",
         "price": 443.82,
         "rating": 3.2,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714750-489689fd1cbb"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 36837.06,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 118,
@@ -1284,8 +1528,10 @@
         "model": "Model-8032",
         "price": 1074.46,
         "rating": 4.8,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714750-489689fd1cbb"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 89180.18,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 119,
@@ -1295,8 +1541,10 @@
         "model": "Model-1690",
         "price": 747.28,
         "rating": 2.9,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714735-489689fd1cac"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 62024.24,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 120,
@@ -1306,8 +1554,10 @@
         "model": "Model-8171",
         "price": 1982.09,
         "rating": 4.8,
-        "details": "This is a premium laptop from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714737-489689fd1cae"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 164513.47,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 121,
@@ -1317,8 +1567,10 @@
         "model": "Model-4444",
         "price": 58.9,
         "rating": 1.6,
-        "details": "This is a premium laptop from Microsoft with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714737-489689fd1cae"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 4888.7,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 122,
@@ -1328,8 +1580,10 @@
         "model": "Model-4695",
         "price": 1373.9,
         "rating": 1.4,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714733-489689fd1caa"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 114033.7,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 123,
@@ -1339,8 +1593,10 @@
         "model": "Model-4497",
         "price": 566.92,
         "rating": 3.2,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714735-489689fd1cac"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 47054.36,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 124,
@@ -1350,8 +1606,10 @@
         "model": "Model-7786",
         "price": 1370.32,
         "rating": 4.8,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 113736.56,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 125,
@@ -1361,8 +1619,10 @@
         "model": "Model-4711",
         "price": 1253.47,
         "rating": 2.9,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714737-489689fd1cae"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 104038.01,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 126,
@@ -1372,8 +1632,10 @@
         "model": "Model-9428",
         "price": 1278.82,
         "rating": 1.0,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714738-489689fd1caf"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 106142.06,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 127,
@@ -1383,8 +1645,10 @@
         "model": "Model-8723",
         "price": 589.34,
         "rating": 4.8,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714739-489689fd1cb0"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 48915.22,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 128,
@@ -1394,8 +1658,10 @@
         "model": "Model-9598",
         "price": 1722.76,
         "rating": 4.3,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714733-489689fd1caa"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 142989.08,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 129,
@@ -1405,8 +1671,10 @@
         "model": "Model-8971",
         "price": 1133.87,
         "rating": 1.4,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714741-489689fd1cb2"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 94111.21,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 130,
@@ -1416,8 +1684,10 @@
         "model": "Model-8634",
         "price": 1862.63,
         "rating": 4.0,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714748-489689fd1cb9"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 154598.29,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 131,
@@ -1427,8 +1697,10 @@
         "model": "Model-2195",
         "price": 271.32,
         "rating": 1.5,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714742-489689fd1cb3"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 22519.56,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 132,
@@ -1438,8 +1710,10 @@
         "model": "Model-4776",
         "price": 767.59,
         "rating": 4.0,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714744-489689fd1cb5"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 63709.97,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 133,
@@ -1449,8 +1723,10 @@
         "model": "Model-1812",
         "price": 1799.67,
         "rating": 4.6,
-        "details": "This is a premium laptop from Lenovo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714745-489689fd1cb6"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 149372.61,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 134,
@@ -1460,8 +1736,10 @@
         "model": "Model-8962",
         "price": 1561.71,
         "rating": 3.6,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714746-489689fd1cb7"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 129621.93,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 135,
@@ -1471,8 +1749,10 @@
         "model": "Model-7833",
         "price": 1099.05,
         "rating": 3.7,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714732-489689fd1ca9"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 91221.15,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 136,
@@ -1482,8 +1762,10 @@
         "model": "Model-6031",
         "price": 623.03,
         "rating": 5.0,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714737-489689fd1cae"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 51711.49,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 137,
@@ -1493,8 +1775,10 @@
         "model": "Model-6042",
         "price": 1738.98,
         "rating": 4.9,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714733-489689fd1caa"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 144335.34,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 138,
@@ -1504,8 +1788,10 @@
         "model": "Model-7219",
         "price": 1797.25,
         "rating": 1.0,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 149171.75,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 139,
@@ -1515,8 +1801,10 @@
         "model": "Model-2873",
         "price": 570.55,
         "rating": 3.6,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714732-489689fd1ca9"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 47355.65,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 140,
@@ -1526,8 +1814,10 @@
         "model": "Model-1884",
         "price": 658.63,
         "rating": 1.4,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714748-489689fd1cb9"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 54666.29,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 141,
@@ -1537,8 +1827,10 @@
         "model": "Model-1183",
         "price": 1074.57,
         "rating": 4.6,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714732-489689fd1ca9"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 89189.31,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 142,
@@ -1548,8 +1840,10 @@
         "model": "Model-6166",
         "price": 338.47,
         "rating": 1.7,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714744-489689fd1cb5"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 28093.01,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 143,
@@ -1559,8 +1853,10 @@
         "model": "Model-4151",
         "price": 1410.19,
         "rating": 3.7,
-        "details": "This is a premium laptop from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714749-489689fd1cba"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 117045.77,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 144,
@@ -1570,8 +1866,10 @@
         "model": "Model-8830",
         "price": 1781.31,
         "rating": 1.5,
-        "details": "This is a premium laptop from Asus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714750-489689fd1cbb"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 147848.73,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 145,
@@ -1581,8 +1879,10 @@
         "model": "Model-3055",
         "price": 425.58,
         "rating": 2.3,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714747-489689fd1cb8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 35323.14,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 146,
@@ -1592,8 +1892,10 @@
         "model": "Model-9864",
         "price": 577.69,
         "rating": 3.9,
-        "details": "This is a premium laptop from Dell with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714739-489689fd1cb0"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://rentalplaza.in/wp-content/uploads/2023/08/Untitled-design-32.jpg",
+        "price_in_inr": 47948.27,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 147,
@@ -1603,8 +1905,10 @@
         "model": "Model-8627",
         "price": 1031.06,
         "rating": 2.2,
-        "details": "This is a premium laptop from Microsoft with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714735-489689fd1cac"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://www.91-img.com/pictures/laptops/samsung/samsung-np940xha-lg1in-167801-v1-original-1.jpg?tr=h-180,c-at_max,q-70,t-true",
+        "price_in_inr": 85577.98,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 148,
@@ -1614,8 +1918,10 @@
         "model": "Model-3253",
         "price": 1115.27,
         "rating": 1.4,
-        "details": "This is a premium laptop from HP with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/images-1.fill.size_2000x1125.v1723100793.jpg",
+        "price_in_inr": 92567.41,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 149,
@@ -1625,8 +1931,10 @@
         "model": "Model-6273",
         "price": 58.82,
         "rating": 2.0,
-        "details": "This is a premium laptop from Acer with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714734-489689fd1cab"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1DRCtHRVd3MjvGS1T6ozedvaHiyhYYDp3tA&s",
+        "price_in_inr": 4882.06,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 150,
@@ -1636,8 +1944,10 @@
         "model": "Model-4449",
         "price": 612.77,
         "rating": 2.3,
-        "details": "This is a premium laptop from MSI with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1517336714741-489689fd1cb2"
+        "details": "MSI Modern 14 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Modern 14 C12MO-1212IN Business Laptop  (14 inch, Classic Black, 1.4 Kg, With MS Office)",
+        "image": "https://contentstatic.techgig.com/photo/108968172/top-5-lightweight-laptops-you-can-buy-in-2024.jpg?989012",
+        "price_in_inr": 50859.91,
+        "hilight": "High-performance laptop designed for productivity, style, and portability."
     },
     {
         "id": 151,
@@ -1648,7 +1958,8 @@
         "price": 398.2,
         "rating": 1.6,
         "details": "This is a premium smartphone from Motorola with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2"
+        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2",
+        "price_in_inr": 33050.6
     },
     {
         "id": 152,
@@ -1659,7 +1970,8 @@
         "price": 241.46,
         "rating": 3.3,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9"
+        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9",
+        "price_in_inr": 20041.18
     },
     {
         "id": 153,
@@ -1670,7 +1982,8 @@
         "price": 374.39,
         "rating": 1.3,
         "details": "This is a premium smartphone from Google with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171637-5f897ff02aac"
+        "image": "https://images.unsplash.com/photo-1511707171637-5f897ff02aac",
+        "price_in_inr": 31074.37
     },
     {
         "id": 154,
@@ -1681,7 +1994,8 @@
         "price": 972.0,
         "rating": 1.5,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab"
+        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab",
+        "price_in_inr": 80676.0
     },
     {
         "id": 155,
@@ -1692,7 +2006,8 @@
         "price": 787.82,
         "rating": 2.1,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171640-5f897ff02aaf"
+        "image": "https://images.unsplash.com/photo-1511707171640-5f897ff02aaf",
+        "price_in_inr": 65389.06
     },
     {
         "id": 156,
@@ -1703,7 +2018,8 @@
         "price": 581.05,
         "rating": 2.6,
         "details": "This is a premium smartphone from Motorola with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad"
+        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad",
+        "price_in_inr": 48227.15
     },
     {
         "id": 157,
@@ -1714,7 +2030,8 @@
         "price": 927.73,
         "rating": 1.2,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7"
+        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7",
+        "price_in_inr": 77001.59
     },
     {
         "id": 158,
@@ -1725,7 +2042,8 @@
         "price": 1998.72,
         "rating": 3.9,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171641-5f897ff02ab0"
+        "image": "https://images.unsplash.com/photo-1511707171641-5f897ff02ab0",
+        "price_in_inr": 165893.76
     },
     {
         "id": 159,
@@ -1736,7 +2054,8 @@
         "price": 583.23,
         "rating": 4.8,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba"
+        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba",
+        "price_in_inr": 48408.09
     },
     {
         "id": 160,
@@ -1747,7 +2066,8 @@
         "price": 1889.64,
         "rating": 2.5,
         "details": "This is a premium smartphone from Google with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171649-5f897ff02ab8"
+        "image": "https://images.unsplash.com/photo-1511707171649-5f897ff02ab8",
+        "price_in_inr": 156840.12
     },
     {
         "id": 161,
@@ -1758,7 +2078,8 @@
         "price": 1079.08,
         "rating": 2.9,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2"
+        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2",
+        "price_in_inr": 89563.64
     },
     {
         "id": 162,
@@ -1769,7 +2090,8 @@
         "price": 251.36,
         "rating": 3.1,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171649-5f897ff02ab8"
+        "image": "https://images.unsplash.com/photo-1511707171649-5f897ff02ab8",
+        "price_in_inr": 20862.88
     },
     {
         "id": 163,
@@ -1780,7 +2102,8 @@
         "price": 1089.3,
         "rating": 4.0,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba"
+        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba",
+        "price_in_inr": 90411.9
     },
     {
         "id": 164,
@@ -1791,7 +2114,8 @@
         "price": 1594.14,
         "rating": 2.3,
         "details": "This is a premium smartphone from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6"
+        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6",
+        "price_in_inr": 132313.62
     },
     {
         "id": 165,
@@ -1802,7 +2126,8 @@
         "price": 856.56,
         "rating": 4.4,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171645-5f897ff02ab4"
+        "image": "https://images.unsplash.com/photo-1511707171645-5f897ff02ab4",
+        "price_in_inr": 71094.48
     },
     {
         "id": 166,
@@ -1813,7 +2138,8 @@
         "price": 971.48,
         "rating": 4.0,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad"
+        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad",
+        "price_in_inr": 80632.84
     },
     {
         "id": 167,
@@ -1824,7 +2150,8 @@
         "price": 1080.49,
         "rating": 3.4,
         "details": "This is a premium smartphone from Google with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171639-5f897ff02aae"
+        "image": "https://images.unsplash.com/photo-1511707171639-5f897ff02aae",
+        "price_in_inr": 89680.67
     },
     {
         "id": 168,
@@ -1835,7 +2162,8 @@
         "price": 918.66,
         "rating": 4.2,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6"
+        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6",
+        "price_in_inr": 76248.78
     },
     {
         "id": 169,
@@ -1846,7 +2174,8 @@
         "price": 492.34,
         "rating": 1.2,
         "details": "This is a premium smartphone from Google with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad"
+        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad",
+        "price_in_inr": 40864.22
     },
     {
         "id": 170,
@@ -1857,7 +2186,8 @@
         "price": 244.63,
         "rating": 4.7,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad"
+        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad",
+        "price_in_inr": 20304.29
     },
     {
         "id": 171,
@@ -1868,7 +2198,8 @@
         "price": 1541.95,
         "rating": 1.2,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab"
+        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab",
+        "price_in_inr": 127981.85
     },
     {
         "id": 172,
@@ -1879,7 +2210,8 @@
         "price": 1690.78,
         "rating": 4.6,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5"
+        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5",
+        "price_in_inr": 140334.74
     },
     {
         "id": 173,
@@ -1890,7 +2222,8 @@
         "price": 1190.0,
         "rating": 3.6,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5"
+        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5",
+        "price_in_inr": 98770.0
     },
     {
         "id": 174,
@@ -1901,7 +2234,8 @@
         "price": 1430.5,
         "rating": 1.5,
         "details": "This is a premium smartphone from Motorola with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171645-5f897ff02ab4"
+        "image": "https://images.unsplash.com/photo-1511707171645-5f897ff02ab4",
+        "price_in_inr": 118731.5
     },
     {
         "id": 175,
@@ -1912,7 +2246,8 @@
         "price": 671.02,
         "rating": 1.5,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba"
+        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba",
+        "price_in_inr": 55694.66
     },
     {
         "id": 176,
@@ -1923,7 +2258,8 @@
         "price": 1696.43,
         "rating": 1.2,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171635-5f897ff02aaa"
+        "image": "https://images.unsplash.com/photo-1511707171635-5f897ff02aaa",
+        "price_in_inr": 140803.69
     },
     {
         "id": 177,
@@ -1934,7 +2270,8 @@
         "price": 885.34,
         "rating": 2.0,
         "details": "This is a premium smartphone from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7"
+        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7",
+        "price_in_inr": 73483.22
     },
     {
         "id": 178,
@@ -1945,7 +2282,8 @@
         "price": 1133.33,
         "rating": 1.2,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171652-5f897ff02abb"
+        "image": "https://images.unsplash.com/photo-1511707171652-5f897ff02abb",
+        "price_in_inr": 94066.39
     },
     {
         "id": 179,
@@ -1956,7 +2294,8 @@
         "price": 1124.5,
         "rating": 3.8,
         "details": "This is a premium smartphone from Motorola with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab"
+        "image": "https://images.unsplash.com/photo-1511707171636-5f897ff02aab",
+        "price_in_inr": 93333.5
     },
     {
         "id": 180,
@@ -1967,7 +2306,8 @@
         "price": 1550.24,
         "rating": 2.4,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171635-5f897ff02aaa"
+        "image": "https://images.unsplash.com/photo-1511707171635-5f897ff02aaa",
+        "price_in_inr": 128669.92
     },
     {
         "id": 181,
@@ -1978,7 +2318,8 @@
         "price": 142.89,
         "rating": 4.3,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5"
+        "image": "https://images.unsplash.com/photo-1511707171646-5f897ff02ab5",
+        "price_in_inr": 11859.87
     },
     {
         "id": 182,
@@ -1989,7 +2330,8 @@
         "price": 1956.36,
         "rating": 4.5,
         "details": "This is a premium smartphone from Motorola with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7"
+        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7",
+        "price_in_inr": 162377.88
     },
     {
         "id": 183,
@@ -2000,7 +2342,8 @@
         "price": 631.47,
         "rating": 1.9,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171653-5f897ff02abc"
+        "image": "https://images.unsplash.com/photo-1511707171653-5f897ff02abc",
+        "price_in_inr": 52412.01
     },
     {
         "id": 184,
@@ -2011,7 +2354,8 @@
         "price": 456.09,
         "rating": 3.9,
         "details": "This is a premium smartphone from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171644-5f897ff02ab3"
+        "image": "https://images.unsplash.com/photo-1511707171644-5f897ff02ab3",
+        "price_in_inr": 37855.47
     },
     {
         "id": 185,
@@ -2022,7 +2366,8 @@
         "price": 1721.41,
         "rating": 3.3,
         "details": "This is a premium smartphone from Apple with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2"
+        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2",
+        "price_in_inr": 142877.03
     },
     {
         "id": 186,
@@ -2033,7 +2378,8 @@
         "price": 76.23,
         "rating": 1.0,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171644-5f897ff02ab3"
+        "image": "https://images.unsplash.com/photo-1511707171644-5f897ff02ab3",
+        "price_in_inr": 6327.09
     },
     {
         "id": 187,
@@ -2044,7 +2390,8 @@
         "price": 657.42,
         "rating": 3.2,
         "details": "This is a premium smartphone from Google with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171652-5f897ff02abb"
+        "image": "https://images.unsplash.com/photo-1511707171652-5f897ff02abb",
+        "price_in_inr": 54565.86
     },
     {
         "id": 188,
@@ -2055,7 +2402,8 @@
         "price": 1831.73,
         "rating": 1.7,
         "details": "This is a premium smartphone from Xiaomi with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6"
+        "image": "https://images.unsplash.com/photo-1511707171647-5f897ff02ab6",
+        "price_in_inr": 152033.59
     },
     {
         "id": 189,
@@ -2066,7 +2414,8 @@
         "price": 641.29,
         "rating": 3.4,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9"
+        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9",
+        "price_in_inr": 53227.07
     },
     {
         "id": 190,
@@ -2077,7 +2426,8 @@
         "price": 582.35,
         "rating": 2.6,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba"
+        "image": "https://images.unsplash.com/photo-1511707171651-5f897ff02aba",
+        "price_in_inr": 48335.05
     },
     {
         "id": 191,
@@ -2088,7 +2438,8 @@
         "price": 576.5,
         "rating": 2.3,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9"
+        "image": "https://images.unsplash.com/photo-1511707171650-5f897ff02ab9",
+        "price_in_inr": 47849.5
     },
     {
         "id": 192,
@@ -2099,7 +2450,8 @@
         "price": 1138.47,
         "rating": 4.3,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+        "price_in_inr": 94493.01
     },
     {
         "id": 193,
@@ -2110,7 +2462,8 @@
         "price": 800.76,
         "rating": 5.0,
         "details": "This is a premium smartphone from Oppo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171642-5f897ff02ab1"
+        "image": "https://images.unsplash.com/photo-1511707171642-5f897ff02ab1",
+        "price_in_inr": 66463.08
     },
     {
         "id": 194,
@@ -2121,7 +2474,8 @@
         "price": 616.58,
         "rating": 3.4,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171637-5f897ff02aac"
+        "image": "https://images.unsplash.com/photo-1511707171637-5f897ff02aac",
+        "price_in_inr": 51176.14
     },
     {
         "id": 195,
@@ -2132,7 +2486,8 @@
         "price": 1573.29,
         "rating": 2.1,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2"
+        "image": "https://images.unsplash.com/photo-1511707171643-5f897ff02ab2",
+        "price_in_inr": 130583.07
     },
     {
         "id": 196,
@@ -2143,7 +2498,8 @@
         "price": 1177.11,
         "rating": 2.1,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+        "price_in_inr": 97700.13
     },
     {
         "id": 197,
@@ -2154,7 +2510,8 @@
         "price": 1230.23,
         "rating": 4.2,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad"
+        "image": "https://images.unsplash.com/photo-1511707171638-5f897ff02aad",
+        "price_in_inr": 102109.09
     },
     {
         "id": 198,
@@ -2165,7 +2522,8 @@
         "price": 402.63,
         "rating": 2.2,
         "details": "This is a premium smartphone from Vivo with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171642-5f897ff02ab1"
+        "image": "https://images.unsplash.com/photo-1511707171642-5f897ff02ab1",
+        "price_in_inr": 33418.29
     },
     {
         "id": 199,
@@ -2176,7 +2534,8 @@
         "price": 193.09,
         "rating": 2.4,
         "details": "This is a premium smartphone from Samsung with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7"
+        "image": "https://images.unsplash.com/photo-1511707171648-5f897ff02ab7",
+        "price_in_inr": 16026.47
     },
     {
         "id": 200,
@@ -2187,6 +2546,7 @@
         "price": 795.51,
         "rating": 2.9,
         "details": "This is a premium smartphone from OnePlus with high quality materials and excellent craftsmanship.",
-        "image": "https://images.unsplash.com/photo-1511707171639-5f897ff02aae"
+        "image": "https://images.unsplash.com/photo-1511707171639-5f897ff02aae",
+        "price_in_inr": 66027.33
     }
 ]

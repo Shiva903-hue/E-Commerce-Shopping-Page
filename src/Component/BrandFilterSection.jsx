@@ -19,7 +19,7 @@ const BrandFilterSection = ({ brands, selectedBrand, onBrandChange }) => {
           All Brands
         </button>
 
-        {/* Individual Brand Buttons */}
+        {/* Brand Buttons */}
         {brands.map((brand) => (
           <button
             key={brand}

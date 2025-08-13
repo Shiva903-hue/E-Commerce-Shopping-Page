@@ -1,10 +1,11 @@
-// src/components/ShopingPage.jsx
+// import { BrowserRouter , Routes, Route } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 import ProductsData from '../assets/ProductsData.json';
 import CategorySection from './CategorySection';
 import BrandFilterSection from './BrandFilterSection';
 import FilterSection from './FilterSection';
 import ProductGrid from './ProductGrid';
+import PDP from './PDP';
 
 const ShopingPage = () => {
   // Brand mapping by category
@@ -88,12 +89,14 @@ const ShopingPage = () => {
   const availableBrands = selectedCategory ? brandsByCategory[selectedCategory] || [] : [];
 
   return (
+    // <BrowserRouter>
+    // <Routes>
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
       <div className="bg-white shadow-sm border-b">
         <div className="max-w-7xl mx-auto px-4 py-6">
+      
           <h1 className="text-3xl font-bold text-gray-900">Shop</h1>
-          <p className="text-gray-600 mt-2">Discover amazing products across all categories</p>
         </div>
       </div>
 
@@ -103,15 +106,15 @@ const ShopingPage = () => {
           categories={categories}
           selectedCategory={selectedCategory}
           onCategoryChange={handleCategoryChange}
-        />
+          />
 
         {/* Brand Filter Section - Only show if category is selected */}
         {selectedCategory && (
           <BrandFilterSection
-            brands={availableBrands}
-            selectedBrand={selectedBrand}
-            onBrandChange={handleBrandChange}
-          />
+          brands={availableBrands}
+          selectedBrand={selectedBrand}
+          onBrandChange={handleBrandChange}
+            />
         )}
 
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 mt-8">
@@ -136,6 +139,7 @@ const ShopingPage = () => {
         </div>
       </div>
     </div>
+            // <Route path="/product-details" element={<ProductDetails />} />
   );
 };
 
