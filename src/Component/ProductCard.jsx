@@ -6,7 +6,7 @@ const ProductCard = ({ product }) => {
 
     const navigate = useNavigate();
 
-  const [productValues , setProductValues] = useState([])
+  const [productValues , setProductValues] = useState([ ])
   const [isHovering, setIsHovering] = useState(false);
   const [zoomPosition, setZoomPosition] = useState({ x: 0, y: 0 });
   const imageRef = useRef(null);
@@ -22,18 +22,12 @@ const ProductCard = ({ product }) => {
     setZoomPosition({ x, y });
   };
 
-  // i wanna get values of the products card in this arrya
 //handleclick
 const handleClick = (clickedProduct) => {
   setProductValues((prev) => [...prev, clickedProduct]); // add full product
     navigate("/PDP", { state: product });// Pass the whole product to PDP via router state
 
 };
-
-// useEffect( ()=>{
-//   console.log('------>', productValues);
-// },[productValues] )
-  // Render star rating
   const renderStars = (rating) => {
     const stars = [];
     const fullStars = Math.floor(rating);
@@ -69,7 +63,6 @@ const handleClick = (clickedProduct) => {
         </svg>
       );
     }
-
     return stars;
   };
 
@@ -100,14 +93,9 @@ const handleClick = (clickedProduct) => {
           }
         />
         
-        {/* Overlay on hover */}
-        {isHovering && (
-          <div className="absolute inset-0 bg-black bg-opacity-10 pointer-events-none" />
-        )}
-
         {/* Category Badge */}
         <div
-         className="absolute top-3 left-3 border border-green-700">
+          className="absolute top-3 left-3 border border-green-700">
           <span className="bg-blue-600 text-white text-xs font-medium px-2 py-1 rounded-full  border border-red-700">
             {product.category}
           </span>

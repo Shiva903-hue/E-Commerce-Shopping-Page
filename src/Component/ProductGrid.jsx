@@ -67,7 +67,7 @@ const ProductGrid = ({ products, totalProducts, currentPage, totalPages, onPageC
           {/* Page Numbers */}
           <div className="flex items-center space-x-2">
             {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
-              
+              // sliding window algorithm
               let pageNum;
               if (totalPages <= 5) { 
                 pageNum = i + 1;

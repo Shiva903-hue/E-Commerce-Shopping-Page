@@ -5,7 +5,7 @@ import CategorySection from './CategorySection';
 import BrandFilterSection from './BrandFilterSection';
 import FilterSection from './FilterSection';
 import ProductGrid from './ProductGrid';
-import PDP from './PDP';
+
 
 const ShopingPage = () => {
   // Brand mapping by category
@@ -30,7 +30,7 @@ const ShopingPage = () => {
 
   // Get unique categories from data
   const categories = [...new Set(ProductsData.map(product => product.category))];
-
+// console.log(categories)
   // Filter products based on selected filters
   useEffect(() => {
     let filtered = ProductsData;
@@ -63,6 +63,7 @@ const ShopingPage = () => {
   const handleCategoryChange = (category) => {
     setSelectedCategory(category);
     setSelectedBrand(''); // Reset brand when category changes
+    setFilters({maxPrice: '',minRating: ''}) //Reset filters 
   };
 
   // Handle brand change

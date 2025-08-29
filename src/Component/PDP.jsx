@@ -3,12 +3,13 @@ import { ArrowLeft, StarIcon } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 
 export default function PDP() {
+
   const { state: product } = useLocation(); // Get product from navigation
+
   const [selectedSize, setSelectedSize] = useState("");
   const [isHovering, setIsHovering] = useState(false);
   const [zoomPosition, setZoomPosition] = useState({ x: 0, y: 0 });
   const imageRef = useRef(null);
-
 
     // Handle mouse move for zoom effect
   const handleMouseMove = (e) => {
@@ -37,11 +38,13 @@ export default function PDP() {
   };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 ">
+      
       <Link to="/">
       <button className=" bg-orange-600 text-white py-3 px-4 rounded-md hover:bg-orange-700 transition-colors"> <ArrowLeft/> </button>
       </Link>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 h-[580px] ">
         {/* Product Image Section */}
         <div onMouseEnter={() => setIsHovering(true)}
         onMouseLeave={() => setIsHovering(false)}
@@ -63,10 +66,6 @@ export default function PDP() {
               : {}
           }
           />
-                  {/* Overlay on hover */}
-        {isHovering && (
-          <div className="absolute inset-0 bg-black bg-opacity-10 pointer-events-none" />
-        )}
         </div>
 
         {/* Product Details Section */}
@@ -95,7 +94,8 @@ export default function PDP() {
           {/* Size Selection */}
           <div>
             <h3 className="text-sm font-medium text-gray-900">Select Size</h3>
-            <div className="grid grid-cols-4 gap-2 mt-2">
+
+           {product.category === 'Mens Clothing'&& <div className="grid grid-cols-4 gap-2 mt-2">
               {["S", "M", "L", "XL"].map((size) => (
                 <button
                   key={size}
@@ -110,6 +110,7 @@ export default function PDP() {
                 </button>
               ))}
             </div>
+}
           </div>
 
           {/* Add to Cart Button */}
