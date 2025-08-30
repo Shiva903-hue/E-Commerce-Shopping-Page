@@ -56,9 +56,9 @@ npm run build
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-![Alt text](./assets/e-com.png)
+![Alt text](./src/assets/e-com.png)
  
 
 ---
@@ -74,14 +74,6 @@ Through this project, I learned how to:
 
 ---
 
-## 🔮 Future Enhancements
-
-- 🔑 User Authentication (Login/Signup)  
-- 🛒 Add to Cart & Checkout Flow  
-- ❤️ Wishlist & Favorites  
-- 🌍 Backend Integration (Node.js + MongoDB/Express)  
-
----
 
 ## 👨‍💻 Author
 
